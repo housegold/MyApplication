@@ -24,6 +24,10 @@ public class MainActivity extends ActionBarActivity {
 
         System.out.println("asdfasdfccccc");
         System.out.println("asdfasdfccccc");
+        System.out.println("asdfasdfccccc");
+        System.out.println("asdfasdfccccc");
+        System.out.println("asdfasdfccccc");
+        System.out.println("asdfasdfccccc");
 
         return true;
     }
