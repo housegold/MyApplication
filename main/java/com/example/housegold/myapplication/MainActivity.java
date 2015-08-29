@@ -25,7 +25,7 @@ public class MainActivity extends ActionBarActivity {
         System.out.println("asdfasdfccccc");
         System.out.println("asdfasdfccccc");
         System.out.println("asdfasdfccccc");
-        System.out.println("asdfasdfccccc");
+        System.out.println("男男女女");
         System.out.println("asdfasdfccccc");
         System.out.println("asdfasdfccccc");
 
