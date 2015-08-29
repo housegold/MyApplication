@@ -22,6 +22,8 @@ public class MainActivity extends ActionBarActivity {
 
         System.out.println("sdafsdfd");
 
+        System.out.println("asdfasdfccccc");
+
         return true;
     }
 
